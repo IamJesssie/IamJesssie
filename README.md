@@ -13,20 +13,20 @@
 ```yaml
 name: Jessie Noel Lapure
 location: Cebu, PHILIPPINES
-currently_working_on:
-  - 🔭 New projects
-  - ☁️ Self development
-  - 📚 Exploring the world of AI development / automation
+focus:
+  - 🚀 Building Practical AI Solutions for Business
+  - ⚙️ Agentic Workflows & Internal Tooling
+  - 🔌 API Orchestration & System Integration
 certifications:
   - AWS Academy Graduate - Cloud Architecting 
   - AWS Academy Graduate - Cloud Foundations 
-ai_tools_i_use:
-  -Claude Code / CLI
-  -Copilot Chat / CLI
-  -Gemini Chat / CLI
-ai_architecture_and_protocols:
-  - Model Context Protocol (MCP) # Connects LLMs to data sources and tools
-  - Retrieval-Augmented Generation (RAG) # Fetches relevant external data for context
+ai_toolset:
+  - LLMs: Claude (Code/CLI), Gemini (CLI/Studio), OpenRouter
+  - IDEs: Cursor, GitHub Copilot (Chat/CLI), Trae
+  - Architecture: Model Context Protocol (MCP), RAG, Prompt Chaining
+automation_and_cloud:
+  - Cloud: Google Cloud Platform (GCP), AWS
+  - Automation: ServiceNow Flow Designer, REST API Integration, Agentic Loops
 ```
 
 
@@ -67,7 +67,7 @@ ai_architecture_and_protocols:
 
 ### 🗄️ Databases & Cloud
 
-<img src="https://skillicons.dev/icons?i=,mysql,postgres,supabase,aws,&perline=7" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=,mysql,postgres,supabase,aws,google&perline=7" alt="Databases" />
 
 ### 💻 Tools & Platforms
 
